@@ -48,6 +48,4 @@ Open [http://localhost:5173](http://localhost:5173) to view the app.
 
 Check out the live app: [https://task-trek-gules.vercel.app/](https://task-trek-gules.vercel.app/)
 
-## 📜 License
 
-This project is licensed under the MIT License. See [LICENSE.md](./LICENSE.md) for details.
